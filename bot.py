@@ -9,7 +9,7 @@ IST_OFFSET = timedelta(hours=5, minutes=30)
 TARGET_DATE = datetime(2026, 11, 6, 0, 0, 0, tzinfo=timezone(IST_OFFSET))
 
 EVENT_NAME = "Ramayana"
-HASHTAGS = "#Ramayana #RanbirKapoor #NiteshTiwari #NamitMalhotra"
+HASHTAGS = "#Ramayana #RanbirKapoor #Yash #NiteshTiwari #NamitMalhotra"
 
 def create_tweet():
     # 1. Authenticate to X
